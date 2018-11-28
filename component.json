@@ -10,6 +10,7 @@
     "liquid": true
   },
   "dependencies": {
-    "slider": "https://github.com/insales-components/slider"
+    "slider": "https://github.com/insales-components/slider",
+    "card": "https://github.com/insales-components/card"
   }
 }
