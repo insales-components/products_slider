@@ -1,0 +1,15 @@
+{
+  "name": "quantity",
+  "version": "1.0.0",
+  "description": "Инпут для ввода количества",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/quantity",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "slider": "https://github.com/insales-components/slider"
+  }
+}
