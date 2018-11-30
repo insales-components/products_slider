@@ -1,10 +1,10 @@
 {
-  "name": "quantity",
+  "name": "products_slider",
   "version": "1.0.0",
-  "description": "Инпут для ввода количества",
+  "description": "Слайдер товаров",
   "author": "LiquidHub.ru",
   "type": "snippets",
-  "homepage": "https://github.com/insales-components/quantity",
+  "homepage": "https://github.com/insales-components/products_slider",
   "props": {
     "common": false,
     "liquid": true
